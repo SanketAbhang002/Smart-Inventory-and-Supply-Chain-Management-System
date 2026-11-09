@@ -67,6 +67,3 @@ inventory-system/
 | GET | /api/reports/stock | Stock report |
 | GET | /api/reports/demand | Demand forecast |
 
-## 👩‍💻 Developer
-**Swanandi Deshmukh**
-Web Development Intern @ Codec Technologies
